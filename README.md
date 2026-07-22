@@ -1,3 +1,5 @@
+<p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
+
 # Pointless? — Constellation Run
 
 一个以“点”为核心的星座连接浏览器小游戏。玩家操控白色小点，在危险红点与追踪敌人的干扰下，按顺序连接真实星座中的编号星点。
